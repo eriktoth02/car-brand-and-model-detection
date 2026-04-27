@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Detection WebApp
 
 Automated car brand and model detection from images using deep learning.
@@ -41,3 +42,6 @@ Copy `.env.example` to `.env` and fill in your values:
 ## License
 
 MIT
+=======
+# car-brand-and-model-detection
+>>>>>>> e2cdb4ab3f981fc51079d514cea3c2df255f0dcc
