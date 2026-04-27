@@ -89,10 +89,10 @@ Doplnit podla realneho zlozenia timu:
 
 | Clen timu | Prispevok |
 | --- | --- |
-| Meno clena 1 | Implementacia backend API vo FastAPI, integracia s databazou, endpointy `/api/detect`, `/api/history`, `/api/stats`. |
-| Meno clena 2 | Implementacia React frontendu, upload obrazka, zobrazenie vysledkov, historia a statistiky. |
-| Meno clena 3 | Priprava a nasadenie modelu na AWS SageMaker, inference skript, konfiguracia endpointu. |
-| Meno clena 4 | Azure deployment, konfiguracia App Service, Static Web Apps, PostgreSQL a environment variables. |
+| Lukáš Švihura | Implementacia backend API vo FastAPI, integracia s databazou, endpointy `/api/detect`, `/api/history`, `/api/stats` Azure deployment, konfiguracia App Service, Static Web Apps, PostgreSQL a environment variables.. |
+| Dominik Keil | Implementacia React frontendu, upload obrazka, zobrazenie vysledkov, historia a statistiky. |
+| Erik Tóth | Priprava a nasadenie modelu na AWS SageMaker, inference skript, konfiguracia endpointu. |
+
 
 Ak projekt robil jeden clen, tabulku je mozne upravit na jeden riadok a spojit vsetky uvedene cinnosti.
 
