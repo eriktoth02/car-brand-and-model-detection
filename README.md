@@ -85,8 +85,6 @@ Aplikacia poskytuje tieto hlavne funkcie:
 
 ## Prispevok jednotlivych clenov timu
 
-Doplnit podla realneho zlozenia timu:
-
 | Clen timu | Prispevok |
 | --- | --- |
 | Lukáš Švihura | Implementacia backend API vo FastAPI, integracia s databazou, endpointy `/api/detect`, `/api/history`, `/api/stats` Azure deployment, konfiguracia App Service, Static Web Apps, PostgreSQL a environment variables.. |
@@ -94,7 +92,6 @@ Doplnit podla realneho zlozenia timu:
 | Erik Tóth | Priprava a nasadenie modelu na AWS SageMaker, inference skript, konfiguracia endpointu. |
 
 
-Ak projekt robil jeden clen, tabulku je mozne upravit na jeden riadok a spojit vsetky uvedene cinnosti.
 
 ## Dokumentacia k pouzivaniu aplikacie
 
@@ -229,8 +226,6 @@ Endpoint `/api/detect` vracia JSON:
   "top_prediction": "Mercedes-Benz",
   "confidence": 33.66,
   "brand": "Mercedes-Benz",
-  "model_name": null,
-  "year": null,
   "top5": [
     {"brand": "Mercedes-Benz", "class_name": "Mercedes-Benz", "confidence": 33.66},
     {"brand": "BMW", "class_name": "BMW", "confidence": 10.45}
